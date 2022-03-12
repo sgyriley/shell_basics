@@ -1,0 +1,64 @@
+[2022-03-04 14:54:50.531] [remoteagent] [info] Extension host agent started.
+[2022-03-04 14:54:50.587] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] New connection established.
+[2022-03-04 14:54:50.926] [remoteagent] [info] [127.0.0.1][e8b5fa3c][ExtensionHostConnection] New connection established.
+[2022-03-04 14:54:51.061] [remoteagent] [info] [127.0.0.1][e8b5fa3c][ExtensionHostConnection] <4837> Launched Extension Host Process.
+[2022-03-04 17:09:01.723] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-04 20:37:17.868] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-04 20:37:25.044] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-04 20:37:25.048] [remoteagent] [info] [127.0.0.1][e8b5fa3c][ExtensionHostConnection] The client has reconnected.
+[2022-03-04 20:37:35.393] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has reconnected.
+[2022-03-04 22:07:32.611] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-05 04:07:34.756] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-05 12:30:52.161] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-05 12:31:11.667] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-05 12:31:11.669] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has reconnected.
+[2022-03-05 12:31:11.678] [remoteagent] [info] [127.0.0.1][e8b5fa3c][ExtensionHostConnection] The client has reconnected.
+[2022-03-05 12:48:51.799] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-05 14:15:09.507] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-05 14:15:21.623] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-05 14:15:21.624] [remoteagent] [info] [127.0.0.1][e8b5fa3c][ExtensionHostConnection] The client has reconnected.
+[2022-03-05 14:17:50.821] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has reconnected.
+[2022-03-05 15:21:08.688] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-05 21:21:09.682] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-05 22:12:37.966] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-05 22:13:01.496] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-05 22:13:01.497] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has reconnected.
+[2022-03-05 22:13:01.509] [remoteagent] [info] [127.0.0.1][e8b5fa3c][ExtensionHostConnection] The client has reconnected.
+[2022-03-05 22:31:57.775] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-06 04:31:58.676] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-06 10:22:37.882] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-06 10:22:53.095] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-06 10:22:53.096] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has reconnected.
+[2022-03-06 10:22:56.838] [remoteagent] [info] [127.0.0.1][e8b5fa3c][ExtensionHostConnection] The client has reconnected.
+[2022-03-06 11:04:55.249] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-06 16:13:49.793] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-06 16:14:24.854] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-06 16:14:24.855] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has reconnected.
+[2022-03-06 16:14:24.859] [remoteagent] [info] [127.0.0.1][e8b5fa3c][ExtensionHostConnection] The client has reconnected.
+[2022-03-06 16:40:46.803] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-06 18:31:21.649] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-06 18:31:46.829] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-06 18:31:46.830] [remoteagent] [info] [127.0.0.1][e8b5fa3c][ExtensionHostConnection] The client has reconnected.
+[2022-03-06 18:35:07.977] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has reconnected.
+[2022-03-06 18:56:50.031] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-06 19:43:39.721] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-06 20:15:07.959] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-06 20:15:07.960] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has reconnected.
+[2022-03-06 20:15:08.319] [remoteagent] [info] [127.0.0.1][e8b5fa3c][ExtensionHostConnection] The client has reconnected.
+[2022-03-06 20:57:38.482] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-06 23:33:45.082] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-06 23:34:17.544] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-06 23:34:17.545] [remoteagent] [info] [127.0.0.1][e8b5fa3c][ExtensionHostConnection] The client has reconnected.
+[2022-03-06 23:39:17.721] [remoteagent] [info] [127.0.0.1][0d5e4311][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2022-03-06 23:58:03.052] [remoteagent] [error] [127.0.0.1][0d5e4311][ManagementConnection] Unknown reconnection token (seen before).
+[2022-03-06 23:58:03.160] [remoteagent] [info] [127.0.0.1][e8b5fa3c][ExtensionHostConnection] <4837> Extension Host Process exited with code: 0, signal: null.
+[2022-03-07 06:25:17.842] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-07 10:42:03.587] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-07 20:20:26.372] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-07 22:46:42.644] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-07 23:23:14.917] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-08 06:44:48.998] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-08 12:02:18.753] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-08 12:52:50.587] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-08 13:27:02.655] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-08 15:21:19.613] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

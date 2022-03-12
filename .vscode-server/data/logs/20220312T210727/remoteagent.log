@@ -1,0 +1,7 @@
+[2022-03-12 21:07:27.279] [remoteagent] [info] Extension host agent started.
+[2022-03-12 21:07:27.345] [remoteagent] [info] [127.0.0.1][bd09cd05][ManagementConnection] New connection established.
+[2022-03-12 21:07:27.350] [remoteagent] [info] [127.0.0.1][ee6d2f5f][ExtensionHostConnection] New connection established.
+[2022-03-12 21:07:28.869] [remoteagent] [info] [127.0.0.1][ee6d2f5f][ExtensionHostConnection] <998> Launched Extension Host Process.
+[2022-03-12 21:07:33.210] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-12 21:46:24.515] [remoteagent] [info] [127.0.0.1][bd09cd05][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-03-12 21:46:25.816] [remoteagent] [info] [127.0.0.1][ee6d2f5f][ExtensionHostConnection] <998> Extension Host Process exited with code: 0, signal: null.

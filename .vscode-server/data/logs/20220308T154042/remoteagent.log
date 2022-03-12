@@ -1,0 +1,51 @@
+[2022-03-08 15:40:43.316] [remoteagent] [info] Extension host agent started.
+[2022-03-08 15:40:43.435] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] New connection established.
+[2022-03-08 15:40:43.440] [remoteagent] [info] [127.0.0.1][f5b505ca][ExtensionHostConnection] New connection established.
+[2022-03-08 15:40:49.177] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-08 15:40:50.733] [remoteagent] [info] [127.0.0.1][f5b505ca][ExtensionHostConnection] <23962> Launched Extension Host Process.
+[2022-03-08 16:09:20.598] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-08 20:19:25.553] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-08 20:20:13.069] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-08 20:20:13.072] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has reconnected.
+[2022-03-08 20:20:13.078] [remoteagent] [info] [127.0.0.1][f5b505ca][ExtensionHostConnection] The client has reconnected.
+[2022-03-08 20:37:12.290] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-08 20:40:02.797] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-08 20:40:06.000] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-08 20:40:06.000] [remoteagent] [info] [127.0.0.1][f5b505ca][ExtensionHostConnection] The client has reconnected.
+[2022-03-08 20:40:56.122] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has reconnected.
+[2022-03-08 21:08:24.393] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-08 23:06:59.979] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-08 23:07:56.079] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-08 23:07:56.081] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has reconnected.
+[2022-03-08 23:07:56.114] [remoteagent] [info] [127.0.0.1][f5b505ca][ExtensionHostConnection] The client has reconnected.
+[2022-03-09 00:11:52.229] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-09 13:43:49.811] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-09 13:43:49.812] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has reconnected.
+[2022-03-09 13:43:49.825] [remoteagent] [info] [127.0.0.1][f5b505ca][ExtensionHostConnection] The client has reconnected.
+[2022-03-09 13:43:50.062] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-ko
+[2022-03-09 13:43:50.062] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-ko
+[2022-03-09 13:43:50.312] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-ko
+[2022-03-09 13:43:50.406] [remoteagent] [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-ko
+[2022-03-09 13:43:52.192] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ko /home/sgyriley/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-ko-1.65.2
+[2022-03-09 13:43:52.799] [remoteagent] [info] Extracted extension to /home/sgyriley/.vscode-server/extensions/.23da8bd5-9c5b-49fa-a041-267f76fd2e28: ms-ceintl.vscode-language-pack-ko
+[2022-03-09 13:43:56.022] [remoteagent] [info] Renamed to /home/sgyriley/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.65.2
+[2022-03-09 13:43:56.029] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-ko
+[2022-03-09 13:43:56.034] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ko
+[2022-03-09 13:43:56.200] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ko
+[2022-03-09 16:40:48.985] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-09 16:43:36.058] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-09 16:43:55.908] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-09 16:43:55.911] [remoteagent] [info] [127.0.0.1][f5b505ca][ExtensionHostConnection] The client has reconnected.
+[2022-03-09 16:43:55.987] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has reconnected.
+[2022-03-09 17:21:03.887] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-09 17:42:05.539] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-09 17:42:48.744] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-09 17:42:48.746] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has reconnected.
+[2022-03-09 17:42:48.773] [remoteagent] [info] [127.0.0.1][f5b505ca][ExtensionHostConnection] The client has reconnected.
+[2022-03-09 17:57:33.808] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-09 21:35:38.876] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-09 21:36:03.430] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-09 21:36:03.431] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has reconnected.
+[2022-03-09 21:36:03.434] [remoteagent] [info] [127.0.0.1][f5b505ca][ExtensionHostConnection] The client has reconnected.
+[2022-03-10 02:10:03.562] [remoteagent] [info] [127.0.0.1][a276981f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-03-10 02:10:03.685] [remoteagent] [info] [127.0.0.1][f5b505ca][ExtensionHostConnection] <23962> Extension Host Process exited with code: 0, signal: null.

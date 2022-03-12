@@ -1,0 +1,8 @@
+[2022-03-12 20:53:06.632] [remoteagent] [info] Extension host agent started.
+[2022-03-12 20:53:06.695] [remoteagent] [info] [127.0.0.1][8c924b54][ManagementConnection] New connection established.
+[2022-03-12 20:53:06.714] [remoteagent] [info] [127.0.0.1][1ea99117][ExtensionHostConnection] New connection established.
+[2022-03-12 20:53:09.045] [remoteagent] [info] Deleted from disk ms-ceintl.vscode-language-pack-ko /home/sgyriley/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.65.1
+[2022-03-12 20:53:12.547] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-12 20:53:13.352] [remoteagent] [info] [127.0.0.1][1ea99117][ExtensionHostConnection] <863> Launched Extension Host Process.
+[2022-03-12 20:53:44.116] [remoteagent] [info] [127.0.0.1][8c924b54][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-03-12 20:53:44.247] [remoteagent] [info] [127.0.0.1][1ea99117][ExtensionHostConnection] <863> Extension Host Process exited with code: 0, signal: null.
